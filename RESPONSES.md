@@ -105,4 +105,4 @@ Fly.io Community Support
 
 #### Rails App URL
 
-Once you've deployed your Rails app, put the link here: `https://patient-tree-8270.fly.dev/`
+["App link here:"]( `https://patient-tree-8270.fly.dev/`)
