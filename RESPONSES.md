@@ -105,4 +105,4 @@ Fly.io Community Support
 
 #### Rails App URL
 
-["App link here:"]( `https://patient-tree-8270.fly.dev/`)
+Open App link here: [https://patient-tree-8270.fly.dev/](https://patient-tree-8270.fly.dev/)
