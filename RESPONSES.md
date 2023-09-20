@@ -102,4 +102,4 @@ Fly.io Community Support
 
 #### Rails App URL
 
-Once you've deployed your Rails app, put the link here: `https://fly-builder-restless-leaf-5782.fly.dev`
+Once you've deployed your Rails app, put the link here: `https://patient-tree-8270.fly.dev/`
