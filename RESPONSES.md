@@ -8,7 +8,7 @@ Dear [Customer's Name],
 
 Thank you for reaching out to us for support. I understand that you've made a recent change to your app, and now it's failing to deploy, showing the following error message:
 
-vbnet
+(```vbnet
 Copy code
 v83 is being deployed 
 c2258102: yyz pending 
@@ -18,6 +18,8 @@ c2258102: yyz pending
 c2258102: yyz pending 
 c2258102: yyz pending 
 c2258102: yyz pending v83 failed - Failed due to unhealthy allocations - not rolling back to stable job version 83 as current job has the same specification
+
+```)
 This error message indicates that there's an issue with the health checks during the deployment process. To help you resolve this, I'd like to gather more information about your app and the recent changes you made:
 
 Could you please provide more details about the specific change you made to your app before this issue occurred?
